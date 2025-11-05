@@ -3,5 +3,5 @@ using namespace std;
 
 //Step
 void main() {
-	cout << "Hello Step Academy" << endl;
+	cout << "Hello Academy" << endl;
 }
